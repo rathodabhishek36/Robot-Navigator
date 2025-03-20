@@ -1,4 +1,4 @@
-# BTP_CSN-400
+# Robot Navigator
 
 B-Tech Project
 
